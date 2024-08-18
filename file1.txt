@@ -1,1 +1,6 @@
 This is file 1.
+
+this is newFeature code
+function newFeature(){
+    return 'abcd'
+}
